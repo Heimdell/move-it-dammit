@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "movedammit:tin_block",
+    "movedammit:tin_ore",
+    "movedammit:tin_ore_deepslate",
+    "movedammit:tin_ore_netherrack",
+    "movedammit:motor"
+  ]
+}

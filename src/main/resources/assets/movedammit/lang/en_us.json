@@ -1,0 +1,17 @@
+{
+  "item.movedammit.tin_ingot": "Tin Ingot",
+  "item.movedammit.tin_nugget": "Tin Nugget",
+  "item.movedammit.tin_raw": "Raw Tin",
+  "item.movedammit.camertone": "Camertone",
+  "item.movedammit.smol_coal": "Smol Coal",
+  "item.movedammit.smol_charcoal": "Smol Charcoal",
+
+  "block.movedammit.tin_block": "Tin Block",
+  "block.movedammit.tin_ore": "Tin Ore",
+  "block.movedammit.tin_ore_netherrack": "Netherrack Tin Ore",
+  "block.movedammit.tin_ore_deepslate": "Deepslate Tin Ore",
+  "block.movedammit.motor": "Motor",
+
+  "itemGroup.movedammit.move_dammit": "Move, dammit!",
+  "item.movedammit.camertone.not_found": "Didn't found anything interesting."
+}

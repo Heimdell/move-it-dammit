@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "movedammit:block/motor/front",
+    "north": "movedammit:block/motor/front",
+    "south": "movedammit:block/motor/back",
+    "east": "movedammit:block/motor/right",
+    "west": "movedammit:block/motor/left",
+    "up": "movedammit:block/motor/top",
+    "down": "movedammit:block/motor/bottom"
+  }
+}

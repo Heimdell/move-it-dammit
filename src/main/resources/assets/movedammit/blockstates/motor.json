@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": { "model": "movedammit:block/motor" },
+    "facing=top,moving=north,powered=false": { "model": "movedammit:block/motor" },
+    "facing=top,moving=east,powered=false": { "model": "movedammit:block/motor", "y": 90 },
+    "facing=top,moving=south,powered=false": { "model": "movedammit:block/motor", "y": 180 },
+    "facing=top,moving=west,powered=false": { "model": "movedammit:block/motor","y": 270 },
+    "facing=down,moving=north,powered=false": { "model": "movedammit:block/motor" },
+    "facing=down,moving=east,powered=false": { "model": "movedammit:block/motor", "y": 90 },
+    "facing=down,moving=south,powered=false": { "model": "movedammit:block/motor", "y": 180 },
+    "facing=down,moving=west,powered=false": { "model": "movedammit:block/motor","y": 270 }
+  }
+}
